@@ -64,7 +64,6 @@ Open the result in Excel and let it recalculate (Ctrl+Alt+F9) if values appear b
 ```
 .
 ├── MIS_Sales_Operations_Report.xlsx
-├── build_workbook.py
 ├── requirements.txt
 ├── README.md
 └── .gitignore
